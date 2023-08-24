@@ -6,6 +6,11 @@ console.log("%cHello, World", "color:yellow; font-size:50px");
 
 //Bu kod satırında birkaç ekleme vardır: yazı tipi boyutu farklıdır ve renk sarıdır: 
 
-//birden fazla kelimeleri veya sayıları birleştirmek için + işareti kullanılır:
+//birden fazla kelimeleri veya sayıları birleştirmek için + işareti kullanılabilir:
 
 console.log("Hello" + ","+ "World");
+
+//ikinci yol ise arada "," noktalama işareti de kullanılılabilir;
+
+console.log("Hello" , "World");
+
