@@ -5,3 +5,7 @@ console.log("Hello JavaScript");
 console.log("%cHello, World", "color:yellow; font-size:50px");
 
 Bu kod parçacığında birkaç ekleme vardır: yazı tipi boyutu farklıdır ve renk sarıdır: 
+
+//birden fazla kelimeleri veya sayıları birleştirmek için + işareti kullanılır:
+
+console.log("Hello" + ","+ "World");
